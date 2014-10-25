@@ -1,0 +1,27 @@
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Release\KinectFusionExplorer-WPF.exe
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Release\KinectFusionExplorer-WPF.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\KinectFusion180_32.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\KinectFusion180_64.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics.csprojResolveAssemblyReference.cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\nextStep.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\Simple Styles.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\start.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\MainWindow.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\nextStep.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\start.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\App.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\MainWindow.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics.csproj.GenerateResource.Cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\3DReprographics.exe
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\bin\Release\3DReprographics.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics_MarkupCompile.cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics_MarkupCompile.lref
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics.g.resources
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics.exe
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\3DReprographics\obj\Release\3DReprographics.pdb

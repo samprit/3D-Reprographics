@@ -1,0 +1,9 @@
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\bin\Release\KinectFusion180_32.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\bin\Release\KinectFusion180_64.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\bin\Release\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\obj\Release\Microsoft.Kinect.Toolkit.Fusion.csprojResolveAssemblyReference.cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\obj\Release\Microsoft.Kinect.Toolkit.Fusion.Resources.resources
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\obj\Release\Microsoft.Kinect.Toolkit.Fusion.csproj.GenerateResource.Cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\obj\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\Microsoft.Kinect.Toolkit.Fusion\obj\Release\Microsoft.Kinect.Toolkit.Fusion.pdb

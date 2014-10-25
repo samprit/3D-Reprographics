@@ -1,0 +1,77 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.KinectFusionExplorer.nextStep"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="nextStep" Height="468" Width="749.5">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#6e6e6e"/>
+        <SolidColorBrush x:Key="DarkGreyBrush" Color="#505050"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#52318F"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#00BCF2"/>
+        <SolidColorBrush x:Key="KinectGreenBrush" Color="#339933"/>
+        <SolidColorBrush x:Key="KinectRedBrush" Color="#980000"/>
+
+        <Style TargetType="{x:Type Button}" x:Key="Step1Button" >
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <StackPanel Orientation="Horizontal" Background="Transparent">
+                                <TextBlock x:Name="StartButtonText" Text="{TemplateBinding Content}" TextAlignment="Center"  VerticalAlignment="Center" Foreground="{StaticResource KinectGreenBrush}" FontSize="36" FontWeight="Light"/>
+                                <Grid Margin="9 0 0 0">
+                                    <Image x:Name="StartButtonNormal" Source="Images\StartGreen.png" Stretch="None" HorizontalAlignment="Center"/>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="{x:Type Button}" x:Key="Step2Button" >
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <StackPanel Orientation="Horizontal" Background="Transparent">
+                                <TextBlock x:Name="StartButtonText" Text="{TemplateBinding Content}" TextAlignment="Left"  VerticalAlignment="Center" Foreground="{StaticResource KinectBlueBrush}" FontSize="36" FontWeight="Light"/>
+                                <Grid Margin="9 0 0 0">
+                                    <Image x:Name="StartButtonNormal" Source="Images\StartNormal.png" Stretch="None" HorizontalAlignment="Center"/>
+                                    <Image x:Name="StartButtonHover" Source="Images\StartHover.png" Stretch="None" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="StartButtonNormal"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="StartButtonHover"/>
+                                <Setter Property="Foreground" Value="{StaticResource KinectPurpleBrush}" TargetName="StartButtonText"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+    	<Grid.ColumnDefinitions>
+    		<ColumnDefinition Width="43*"/>
+    		<ColumnDefinition Width="14*"/>
+    	</Grid.ColumnDefinitions>
+        <Button Style="{DynamicResource Step1Button}" Content="STEP1:" Height="Auto" Margin="51.877,142,341.623,199" x:Name="Step1" FontSize="9" RenderTransformOrigin="0.564,-0.083" Cursor="Hand" Click="Step1_Click"/>
+        <Button Style="{StaticResource Step2Button}" Content="STEP2:" Height="Auto" Margin="0,142,111.5,199" x:Name="Step2" FontSize="9" RenderTransformOrigin="0.564,-0.083" Cursor="Hand" HorizontalAlignment="Right" Width="165" Click="Step2_Click"/>
+        <Button Style="{StaticResource Step2Button}" Content="STEP3:" Height="Auto" HorizontalAlignment="Right" Margin="0,142,50,199" x:Name="Step3" Width="165" FontSize="9" RenderTransformOrigin="0.564,-0.083" Cursor="Hand" Click="Step3_Click" Grid.ColumnSpan="2"/>
+        <Button Style="{StaticResource Step2Button}" Content="View Model" Height="Auto" HorizontalAlignment="Right" Margin="0,308.5,97.5,32.5" x:Name="ViewModel" Width="181" FontSize="9" RenderTransformOrigin="0.564,-0.083" Cursor="Hand" Click="View_Click"/>
+        <Border BorderThickness="5" Margin="10" CornerRadius="5" BorderBrush="#FF00BCF2" Grid.ColumnSpan="2">
+            <Image Margin="0,5,36,0" Source="Images/Kinect.ico" Stretch="Fill" HorizontalAlignment="Right" Width="105" Height="99.5" VerticalAlignment="Top"/>
+        </Border>
+        <Image Source="Images/Logo.png" Stretch="None"  Margin="37,49.5,0,0" Height="74" VerticalAlignment="Top" HorizontalAlignment="Left" Width="180.754"/>
+        <TextBlock FontFamily="Segoe UI" FontSize="16" Foreground="{StaticResource MediumGreyBrush}" Height="65.5" Margin="51.877,238,328.5,133.5" VerticalAlignment="Center"><Run Text="Scanning the object "/><LineBreak/><Run Text="with Kinect and saving it "/><LineBreak/><Run Text="as a .stl file"/></TextBlock>
+        <TextBlock FontFamily="Segoe UI" FontSize="16" Foreground="{StaticResource MediumGreyBrush}" Height="65.5" HorizontalAlignment="Right" Margin="0,238,97.5,133.5" VerticalAlignment="Center" Width="179"><Run Text="Cropping and rotating"/><LineBreak/><Run Text="the 3D object obtained"/><LineBreak/><Run Text="and smoothing"/><LineBreak/><Run Text="and filtering the object"/></TextBlock>
+        <TextBlock FontFamily="Segoe UI" FontSize="16" Foreground="{StaticResource MediumGreyBrush}" Height="65.5" HorizontalAlignment="Right" Margin="0,238,36,133.5" VerticalAlignment="Center" Width="179" Grid.ColumnSpan="2"><Run Text="Setting the final"/><LineBreak/><Run Text="orientation and the scale"/><LineBreak/><Run Text="of the object"/></TextBlock>
+    </Grid>
+
+</Window>

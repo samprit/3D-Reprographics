@@ -1,0 +1,25 @@
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\KinectFusion180_32.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\KinectFusion180_64.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\start.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\start.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\nextStep.baml
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\nextStep.g.cs
+C:\Users\samprit\Desktop\acads-computer science\BTP\Final Software\KinectFusionExplorer-WPF\obj\Debug\Simple Styles.baml
